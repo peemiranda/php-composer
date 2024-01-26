@@ -37,5 +37,6 @@
     ],
     "scripts-descriptions": {
         "check": "Roda as verificacoes do codigo Phan, CS e Unit"
-    }
+    },
+    "license": "GPL-3.0-or-later"
 }
